@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image003.jpg</filename>
+	<path>C:\Users\krx\Pictures\ML Training Data\igomaschine_small\train\images\image003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>31</ymin>
+			<xmax>280</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>36</ymin>
+			<xmax>272</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
